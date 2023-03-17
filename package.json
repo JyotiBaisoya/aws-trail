@@ -1,0 +1,23 @@
+{
+  "name": "aws-trail",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JyotiBaisoya/aws-trail.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JyotiBaisoya/aws-trail/issues"
+  },
+  "homepage": "https://github.com/JyotiBaisoya/aws-trail#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
